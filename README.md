@@ -1,4 +1,0 @@
-Supermarket
-===========
-
-Databases Team work
